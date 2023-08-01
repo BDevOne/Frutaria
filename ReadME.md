@@ -8,4 +8,4 @@ Produto:
 
 Validação do "Produto": Cadastro / Pesquisa / Seleção / Exclusão
 
-• Cadastrar, buscar produto, selecionar produto e excluir produto
+• Cadastrar produto, buscar produto, selecionar produto e excluir produto
