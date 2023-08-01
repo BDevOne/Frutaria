@@ -4,6 +4,6 @@
 
 Produto: ID, nome e tipo
 
-Validação do "Produto": Cadastro / Exclusão
+Validação do "Produto": Cadastro / Pesquisa / Seleção / Exclusão
 
-Seleção do Produto: Buscar produto, Marcar produto e Excluir produto
+Seleção do Produto: Cadastrar, buscar produto, selecionar produto e excluir produto
